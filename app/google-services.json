@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "289981537949",
+    "firebase_url": "https://demootpapp-a42c9.firebaseio.com",
+    "project_id": "demootpapp-a42c9",
+    "storage_bucket": "demootpapp-a42c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289981537949:android:deeaaae9621217caaffe74",
+        "android_client_info": {
+          "package_name": "com.example.demootpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289981537949-mrrj7t34509n88bguaf3u50pncsgdcsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demootpapp",
+            "certificate_hash": "79abb0f845efb9630600790177af138a36b0431a"
+          }
+        },
+        {
+          "client_id": "289981537949-9fvulhtm7pfnosg5j0ni6oo0g8641aq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6n9SbqMO5YyAQoZFr5AsRAO_GiPLCrws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289981537949-9fvulhtm7pfnosg5j0ni6oo0g8641aq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
